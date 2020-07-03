@@ -16,10 +16,8 @@ The application runs on Android smartphones.
 # 2. Overall Description
 
 ## 2.1 User Needs
-1. Nofity current state of screen by sounds effect
-2. When captured barcode. Nofity current state by sounds effect
-3. Read goods informatrion by Using TTS.
-4. For blind, Double tab is screen action. One tab is selected button's infomation
+1. Current state will provide with non-visible infomation
+2. get goods infomatrion from barcode
 
 ## 2.2 Assumptions and Dependencies
 1. Assume user is blind.
@@ -29,11 +27,16 @@ The application runs on Android smartphones.
 
 # 3. System Features and Requirements
 
-            3.1 Functional Requirements
+## 3.1 Functional Requirements
+1. Nofity current state of screen by sounds effect
+2. When captured barcode. Nofity current state by sounds effect
+3. Read goods informatrion by Using TTS.
+4. For blind, Double tab is screen action. One tab is selected button's infomation
 
-            3.2 External Interface Requirements
+## 3.2 External Interface Requirements
+1. Interface of merchendise infomation file is dependon server
 
-            3.3 System Features
+## 3.3 System Features
 
             3.4 Nonfunctional Requirements
 
