@@ -34,7 +34,9 @@ The application runs on Android smartphones.
 4. For blind, Double tab is screen action. One tab is selected button's infomation
 
 ## 3.2 External Interface Requirements
-1. Interface of merchendise infomation file is dependon server
+1. Target android system is Oreo(8.0)
+2. The device needs camera for reading barcode
+3. The device needs network device for getting product data
 
 ## 3.3 System Features
 
