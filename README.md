@@ -37,8 +37,3 @@ The application runs on Android smartphones.
 1. Target android system is Oreo(8.0)
 2. The device needs camera for reading barcode
 3. The device needs network device for getting product data
-
-## 3.3 System Features
-
-            3.4 Nonfunctional Requirements
-
