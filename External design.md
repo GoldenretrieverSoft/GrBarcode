@@ -9,3 +9,22 @@
  
 #  Interface Requirements and Environment
   User Interface
+## main screen
+
+   +------------------------------+
+   |                              |
+   |                              |
+   |                              |
+   |      Camera button           |
+   |                              |
+   |                              |
+   |                              |
+   +------------------------------+
+   |              |               |
+   |              |               |
+   |              |               |
+   |   Setting    |    Exit       |
+   |   Button     |    Button     |
+   |              |               |
+   |              |               |
+   +------------------------------+
