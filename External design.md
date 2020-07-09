@@ -28,3 +28,8 @@
    |              |               |
    |              |               |
    +------------------------------+
+   
+  After screen Initialized,Wait servaral second Turn off Screen for save battery
+
+
+  
