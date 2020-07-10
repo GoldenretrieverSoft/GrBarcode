@@ -9,6 +9,7 @@
  
 #  Interface Requirements and Environment
   User Interface
+  
 ## main screen
 
      +------------------------------+
@@ -33,4 +34,13 @@
   Wait servaral second Turn off Screen for save battery
 
 
+### Action
+  Camera Button
+  get barcode from camera.
+  
+  Setting button
+  go to setting screen
+  
+  Exit Button
+  close App
   
