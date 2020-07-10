@@ -11,23 +11,23 @@
   User Interface
 ## main screen
 
-   +------------------------------+
-   |                              |
-   |                              |
-   |                              |
-   |      Camera button           |
-   |                              |
-   |                              |
-   |                              |
-   +------------------------------+
-   |              |               |
-   |              |               |
-   |              |               |
-   |   Setting    |    Exit       |
-   |   Button     |    Button     |
-   |              |               |
-   |              |               |
-   +------------------------------+
+     +------------------------------+
+     |                              |
+     |                              |
+     |                              |
+     |      Camera button           |
+     |                              |
+     |                              |
+     |                              |
+     +------------------------------+
+     |              |               |
+     |              |               |
+     |              |               |
+     |   Setting    |    Exit       |
+     |   Button     |    Button     |
+     |              |               |
+     |              |               |
+     +------------------------------+
    
   After screen Initialized, 
   Wait servaral second Turn off Screen for save battery
