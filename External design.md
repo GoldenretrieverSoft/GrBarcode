@@ -37,6 +37,8 @@
 ### Action
   Camera Button
   get barcode from camera.
+  feature 
+   * Automaically find barcode. and read automatcally
   
   Setting button
   go to setting screen
