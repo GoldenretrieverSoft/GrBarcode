@@ -39,6 +39,8 @@
   get barcode from camera.
   feature 
    * Automaically find barcode. and read automatcally
+   * Find item's infomation.(local database)
+   * read item's infomation.  
   
   Setting button
   go to setting screen
