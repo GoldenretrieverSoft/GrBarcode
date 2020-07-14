@@ -29,19 +29,19 @@ added.
 ## 2.1 Product functions
   
   - Image input from camera.(permission require)
-     *Open our application, Application read picture from devise's camaera.
+     * Open our application, Application read picture from devise's camaera.
      
   - Recognize barcode from Image
-     *Recognize barcode from image.
+     * Recognize barcode from image.
      
   - Read barcode
-     *barcode turn to number
+     * barcode turn to number
      
   - Read QRcode(Subsequent)
-     *turn to infomation
+     * turn to infomation
 
   - Turn jancode to infomation
-     *Turn jancode(from barcode) readable infomation
+     * Turn jancode(from barcode) readable infomation
 
 ## 2.2 User Needs
 1. Current state will provide with non-visible infomation
