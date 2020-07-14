@@ -13,16 +13,39 @@ The purpose of the application is to make things easier to recognize.
 Use the camera to find a barcode for a product and to notify you of product information 
 The application runs on Android smartphones.
 
+## 1.3 Assumptions and Dependencies
+Åú Operating System: The application will be developed for Android platforms
+ Åû Android 8.0.0 and upper versions. 
+             (  Wi-Fi Direct should be supported.When download database
+                Camera should be supported.)
+Åú Accessablity : The application should support the provision of non-visible information for the blind 
+                  ( Such as current state, action result, etc )
+These assumptions may change during the implementation and new features may be
+added. 
+
+
 # 2. Overall Description
 
-## 2.1 User Needs
+## 2.1 Product functions
+  
+  Image input from camera.(permission require)
+     Open our application, Application read picture from devise's camaera.
+     
+  Recognize barcode from Image
+     Recognize barcode from image.
+     
+  Read barcode
+     barcode turn to number
+     
+  Read QRcode(Subsequent)
+     turn to infomation
+
+  Turn jancode to infomation
+     Turn jancode(from barcode) readable infomation
+
+## 2.2 User Needs
 1. Current state will provide with non-visible infomation
 2. get goods infomatrion from barcode
-
-## 2.2 Assumptions and Dependencies
-1. Assume user is blind.
-2. It's works in android
-3. It use rear camera
 
 
 # 3. System Features and Requirements
@@ -34,6 +57,6 @@ The application runs on Android smartphones.
 4. For blind, Double tab is screen action. One tab is selected button's infomation
 
 ## 3.2 External Interface Requirements
-1. Target android system is Oreo(8.0)
+1. Target android system is Oreo(8.0) or higher
 2. The device needs camera for reading barcode
 3. The device needs network device for getting product data
