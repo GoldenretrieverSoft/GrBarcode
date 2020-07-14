@@ -16,10 +16,10 @@ The application runs on Android smartphones.
 ## 1.3 Assumptions and Dependencies
  - Operating System: The application will be developed for Android platforms
    * Android 8.0.0 and upper versions. 
-             (  Wi-Fi Direct should be supported.When download database
-                Camera should be supported.)
+      *       (  Wi-Fi Direct should be supported.When download database
+      *          Camera should be supported.)
  - Accessablity : The application should support the provision of non-visible information for the blind 
-                  ( Such as current state, action result, etc )
+       *           ( Such as current state, action result, etc )
 These assumptions may change during the implementation and new features may be
 added. 
 
@@ -29,19 +29,19 @@ added.
 ## 2.1 Product functions
   
   - Image input from camera.(permission require)
-     Open our application, Application read picture from devise's camaera.
+     *Open our application, Application read picture from devise's camaera.
      
   - Recognize barcode from Image
-     Recognize barcode from image.
+     *Recognize barcode from image.
      
   - Read barcode
-     barcode turn to number
+     *barcode turn to number
      
   - Read QRcode(Subsequent)
-     turn to infomation
+     *turn to infomation
 
   - Turn jancode to infomation
-     Turn jancode(from barcode) readable infomation
+     *Turn jancode(from barcode) readable infomation
 
 ## 2.2 User Needs
 1. Current state will provide with non-visible infomation
