@@ -45,7 +45,7 @@ added.
 
 ## 2.2 User Needs
 1. Current state will provide with non-visible infomation
-2. get goods infomatrion from barcode
+2. Get goods infomatrion from barcode
 
 
 # 3. System Features and Requirements

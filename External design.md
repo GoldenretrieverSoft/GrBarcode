@@ -16,7 +16,7 @@
      |                              |
      |                              |
      |                              |
-     |      Camera button           |
+     |        Camera button         |
      |                              |
      |                              |
      |                              |
@@ -24,9 +24,9 @@
      |              |               |
      |              |               |
      |              |               |
-     |   Setting    |    Exit       |
-     |   Button     |    Button     |
-     |              |               |
+     |    Setting   |     Exit      |
+     |    Button    |     Button    |
+     |    (futher)  |               |
      |              |               |
      +------------------------------+
    
@@ -40,11 +40,11 @@
   feature 
    * Automaically find barcode. and read automatcally
    * Find item's infomation.(local database)
-   * read item's infomation.  
+   * Read item's infomation.  
   
   Setting button
-  go to setting screen
+  (futher)Go to setting screen
   
   Exit Button
-  close App
+  Close app
   
