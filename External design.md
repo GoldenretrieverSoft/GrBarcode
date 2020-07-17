@@ -31,7 +31,7 @@
      +------------------------------+
    
   After screen Initialized, 
-  Wait servaral second Turn off Screen for save battery
+  Wait servaral second And Turn off Screen for save battery
 
 
 ### Action
