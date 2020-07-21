@@ -43,8 +43,8 @@
    * Read item's infomation.  
   
   Setting button
-  (futher)Go to setting screen
+   * (futher)Go to setting screen
   
   Exit Button
-  Close app
+   * Close app
   
