@@ -2,10 +2,10 @@
 ## Purpose
  To read information from merchandise barcode.
 ## Scope of the Software
- read barcode from camera.
- find infomation from jancode.
- note infomation from database.
- Using TTS speak infomation.
+ * read barcode from camera.
+ * find infomation from jancode.
+ * note infomation from database.
+ * Using TTS speak infomation.
  
 #  Interface Requirements and Environment
   User Interface
@@ -31,7 +31,7 @@
      +------------------------------+
    
   After screen Initialized, 
-  Wait servaral second And Turn off Screen for save battery
+  - Wait servaral second And Turn off Screen for save battery
 
 
 ### Action
