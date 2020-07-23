@@ -10,7 +10,7 @@
 #  Interface Requirements and Environment
   User Interface
   
-## main screen
+## main activity(screen)
 
      +------------------------------+
      |                              |
