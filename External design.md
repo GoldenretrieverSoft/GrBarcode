@@ -36,11 +36,12 @@
 
 ### Action
   Camera Button
-  get barcode from camera.
-  feature 
-   * Automaically find barcode. and read automatcally
-   * Find item's infomation.(local database)
-   * Read item's infomation.  
+   get barcode from camera.
+   
+   feature 
+    * Automaically find barcode. and read automatcally
+    * Find item's infomation.(local database)
+    * Read item's infomation.  
   
   Setting button
    * (futher)Go to setting screen
