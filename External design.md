@@ -47,5 +47,5 @@
    * (futher)Go to setting screen
   
   Exit Button
-   * Close app
+   * Close appication
   
