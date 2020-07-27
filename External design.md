@@ -31,7 +31,7 @@
      +------------------------------+
    
   When Initalizing screen
-  - download database
+  - download database (futher)
    
   After screen Initialized, 
   - Wait servaral second And Turn off Screen for save battery
