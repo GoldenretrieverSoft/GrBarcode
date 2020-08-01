@@ -39,7 +39,7 @@
 
 ### Action
   Camera Button
-   get barcode from camera.
+   Get barcode from camera.
    
    feature 
     * Automaically find barcode. and read automatcally
