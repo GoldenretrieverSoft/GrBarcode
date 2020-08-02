@@ -19,7 +19,7 @@ The application runs on Android smartphones.
       *       (  Wi-Fi Direct should be supported.When download database
       *          Camera should be supported.)
  - Accessablity : The application should support the provision of non-visible information for the blind 
-       *           ( Such as current state, action result, etc )
+      *           ( Such as current state, action result, etc )
 These assumptions may change during the implementation and new features may be
 added. 
 
