@@ -12,23 +12,24 @@
   
 ## main activity(screen)
 
-     +------------------------------+
-     |                              |
-     |                              |
-     |                              |
-     |        Camera button         |
-     |                              |
-     |                              |
-     |                              |
-     +------------------------------+
-     |              |               |
-     |              |               |
-     |              |               |
-     |    Setting   |     Exit      |
-     |    Button    |     Button    |
-     |    (futher)  |               |
-     |              |               |
-     +------------------------------+
+     First Layout                       Second Layout
+     +------------------------------+   +------------------------------+
+     |                              |   |                              |
+     |                              |   |                              |
+     |                              |   |                              |
+     |        Camera button         |   |                              |
+     |                              |   |                              |
+     |                              |   |          Continuos           |
+     |                              |   |                              |
+     +------------------------------+   |           Layout             |
+     |              |               |   |                              |
+     |              |               |   |                              |
+     |              |               |   |                              |
+     |    Setting   |     Exit      |   |                              |
+     |    Button    |     Button    |   |                              |
+     |    (futher)  |               |   |                              |
+     |              |               |   |                              |
+     +------------------------------+   +------------------------------+
    
   When Initalizing screen
   - download database (futher)
