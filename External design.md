@@ -37,6 +37,8 @@
   After screen Initialized, 
   - Wait servaral second And Turn off Screen for save battery
 
+  Second Layout
+  - Show camera's sight
 
 ### Action
   Camera Button
